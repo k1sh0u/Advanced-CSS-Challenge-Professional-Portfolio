@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav ul li {
+    display: inline;
+    padding: 0px 5px;
+}
+header a {
+    display: inline;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+header {
+    text-align: center;
+    background-color: #fac6ff;
+    padding: 18px 0px 18px 0px
+}
+header h1 {
+    margin: 0px 0px 10px 0px;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+div {
+    background-color: #fac6ff;
+    color: white;
+    border: solid black
+}
+.avatar {
+    float:right;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
